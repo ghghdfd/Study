@@ -1,1 +1,1 @@
-## RNA_expression_data using at human sex, age, cancer, stage prediction ##
+## RNA_expression_data preprosessing for human sex, age, cancer name, stage prediction ##
